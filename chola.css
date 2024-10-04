@@ -72,7 +72,7 @@ h3 {
 }
 .type .cart-button {
     display: flex;
-    background:linear-gradient(#7f96ad, #074481, #011f3d);
+    background:linear-gradient(#869aad, #074481, #011f3d);
     border-radius: 0 5px 5px 0;
     padding: 10px;
 }
